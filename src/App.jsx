@@ -111,10 +111,6 @@ function App() {
         movie={selectedMovie} 
         loading={modalLoading}
       />
-
-      <footer className="text-center py-5 border-top border-secondary mt-5 text-muted bg-black">
-        <p>&copy; 2024 Movie Vault. Powered by TMDB.</p>
-      </footer>
     </>
   );
 }
